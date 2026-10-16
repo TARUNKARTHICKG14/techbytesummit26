@@ -50,7 +50,7 @@ In secondary school laboratories across the district, hazardous chemical degrada
 
 ### 2. Installation
 ```bash
-git clone https://github.com/sarathi07-coder/techbytesummit26.git
+git clone https://github.com/TARUNKARTHICKG14/techbytesummit26.git
 cd techbytesummit26
 npm install
 ```
