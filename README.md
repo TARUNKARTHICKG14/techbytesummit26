@@ -97,5 +97,5 @@ Run the automated 12-point system verification test suite:
 ---
 
 ## 👥 Contributors & Acknowledgements
-- **Author**: Parthasarathi ([@sarathi07-coder](https://github.com/sarathi07-coder))
+- **Author**: TARUN KARTHICK G ([@TARUNKARTHICKG14](https://github.com/TARUNKARTHICKG14))
 - Built for the **TechByte Summit 2026** Hackathon
